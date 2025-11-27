@@ -9,7 +9,8 @@ I’m passionate about transforming product ideas into fast, reliable, polished 
 ---
 
 ## 🚀 About Me
-- 💼 Senior Flutter Developer @ Beetleware  
+- 💼 Senior Flutter Developer @ Beetleware
+- 🎙️ Developer Advocate @ PowerMaas (Community, product insights, developer experience, and technical guidance)
 - 📱 Built & maintained 15+ production mobile apps  
 - 🧱 Passionate about **architecture, clean code, and maintainability**  
 - 🤝 Worked hybrid, on-site (Saudi Arabia), and remote  
