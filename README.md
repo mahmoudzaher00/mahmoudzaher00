@@ -120,4 +120,3 @@ Google Play · App Store
 
 ---
 
-If any of this is useful to you, a star on the repos is always appreciated.
