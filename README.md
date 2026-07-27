@@ -1,169 +1,120 @@
-# 👋 Hi, I'm Mahmoud Zaher  
-### Senior Flutter Developer | Cross-Platform Mobile Engineer
+# Mahmoud Zaher
 
-I’m a results-oriented Flutter Developer with 4+ years of experience building scalable, high-performance mobile apps.  
-I specialize in **Clean Architecture, BLoC, modularization, testing, performance optimization**, and fully owning features from concept to production.
+### Senior Flutter Developer | Mobile Team Lead
 
-I’m passionate about transforming product ideas into fast, reliable, polished mobile experiences.
+I'm a results-oriented Flutter developer with 5+ years of experience designing, architecting, and delivering scalable cross-platform mobile applications. I specialize in Clean Architecture, BLoC, modularization, testing, and performance optimization — owning features end-to-end from concept to production.
+
+I'm passionate about turning product ideas into fast, reliable, polished mobile experiences, and about mentoring developers along the way.
 
 ---
 
-## 🚀 About Me
-- Senior Flutter Developer @ Beetleware
-- Developer Advocate @ PowerMaas (Community, product insights, developer experience, and technical guidance)
-- Built & maintained 15+ production mobile apps  
-- Passionate about **architecture, clean code, and maintainability**  
-- Worked hybrid, on-site (Saudi Arabia), and remote  
-- Strong in payments, maps, notifications, authentication, analytics  
+## About
+
+- Mobile Team Lead at Imam Turki Bin Abdullah Royal Nature Reserve Development Authority (Remote, Saudi Arabia) — Present
+- Senior Flutter Developer at Beetleware
+- Senior Flutter Developer & Developer Advocate at PowerMaas
+- Built and maintained 12+ production mobile apps across Android, iOS, and Web
+- Experience across hybrid, on-site (Saudi Arabia), and remote roles
+- Strong background in payments, maps, notifications, authentication, and analytics
 - Based in Cairo, Egypt
 
 ---
 
-## 🌐 Socials
-- 📧 Email: **zahermahmoud80@gmail.com**
-- 🔗 LinkedIn: [Mahmoud Zaher](https://www.linkedin.com/in/mahmoud-zaher-945092206/)
-- 🐙 GitHub: [github.com/mahmoudzaher00](https://github.com/mahmoudzaher00)
+## Contact
+
+Email: zahermahmoud80@gmail.com
+LinkedIn: [Mahmoud Zaher](https://www.linkedin.com/in/mahmoud-zaher-945092206/)
+GitHub: [github.com/mahmoudzaher00](https://github.com/mahmoudzaher00)
 
 ---
 
-# 📱 Featured Projects (Production Apps)
+## Featured Projects
 
-> جميع التطبيقات التالية Production وتخدم آلاف المستخدمين يوميًا.
+All applications below are in production and serve real users.
 
----
+**KhairUmmah**
+A comprehensive Islamic lifestyle app featuring Quran memorization, prayer times, Azkar, Qibla, home screen widgets, and location-based services. Includes advanced audio features, bookmarking, daily challenges, and dynamic admin content.
+1K+ downloads · 4.9★ (69 reviews) on Google Play
+[Google Play](https://play.google.com/store/apps/details?id=com.beetleware.khair_oma) · [App Store](https://apps.apple.com/eg/app/%D8%AE%D9%8A%D9%80%D8%B1-%D8%A3%D9%85%D9%80%D8%A9/id6478954684)
 
-## **KhairUmmah – خيـر أمــــة**
-A complete Islamic lifestyle app focused on Quran memorization, habit tracking, reminders, and personalized progress insights.  
-Includes advanced audio features, bookmarking, daily challenges, and fully dynamic admin content.
+**First Wash**
+On-demand car wash and upholstery service with a full booking system, real-time service tracking, integrated payments (Apple Pay, Tabby, Moyasar, Tamara), coupons, a user wallet, and a companion web panel.
+[Google Play](https://play.google.com/store/apps/details?id=com.first.wash) · [App Store](https://apps.apple.com/gb/app/fristwash/id1645783986) · [Web App](https://web.firstwashes.com/)
 
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.beetleware.khair_oma)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/eg/app/%D8%AE%D9%8A%D9%80%D8%B1-%D8%A3%D9%85%D9%80%D8%A9/id6478954684)
+**SBA Academy**
+A TVTC-accredited media training platform focused on developing media talent through professional, structured training programs.
+Google Play · App Store
 
----
+**Shipper Operation**
+A logistics operations system for assigning delivery trips, managing drivers, tracking shipments, and monitoring routes, with real-time updates and secure admin controls.
+[Google Play](https://play.google.com/store/apps/details?id=com.beetleware.shipperoperation) · [App Store](https://apps.apple.com/us/app/shipper-operation/id6471913778)
 
-## **First Wash – فرست ووش**
-On-demand car wash & upholstery service with a full booking system, real-time service tracking, payments (Apple Pay, Tabby, Moyasar, Tamara), coupons, user wallet, and fully integrated web panel.
+**01 GOV**
+A digital platform enabling government innovation, communication, and collaboration, with content publishing tools, a media center, interactive services, and secure user access.
+[Google Play](https://play.google.com/store/apps/details?id=com.beetleware.govern01) · [App Store](https://apps.apple.com/eg/app/01-gov/id6504727922)
 
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.first.wash)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/gb/app/fristwash/id1645783986)  
-🌐 **Web App:** https://web.firstwashes.com/
+**Read To Lead**
+A self-development platform offering book summaries, articles, podcasts, and expert content, with personalized recommendations and multimedia streaming.
+[Google Play](https://play.google.com/store/apps/details?id=store.readtolead.rtl&pcampaignid=web_share) · [App Store](https://apps.apple.com/us/app/read-to-lead/id1594156061)
 
----
+**MaharaTufl**
+An educational kids' app that builds early Arabic language skills through interactive activities, audio lessons, and engaging UX.
+100K+ downloads · 4.4★ (713 reviews) on Google Play · 3.9★ (252 ratings) on the App Store
+[Google Play](https://play.google.com/store/apps/details?id=com.maharattufl.maharatufl) · [App Store](https://apps.apple.com/eg/app/%D9%85%D9%87%D8%A7%D8%B1%D8%A9-%D8%B7%D9%81%D9%84/id6467820570)
 
-## **Shipper Operation**
-A logistics operations system for assigning delivery trips, managing drivers, tracking shipments, and monitoring routes.  
-Built with real-time updates, secure admin features, and optimized for high-performance teams.
+**Tal3eeb**
+A sports and community platform enabling users to discover, organize, and participate in sports activities while connecting with other players.
+Google Play · App Store
 
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.beetleware.shipperoperation)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/us/app/shipper-operation/id6471913778)
+**Athkar & Doaa**
+Daily athkar, duas, reminders, a hijri calendar, and worship tracking, with offline support and customizable notifications.
+100K+ downloads · 4.7★ (671 reviews) on Google Play · 4.7★ (13 ratings) on the App Store
+[Google Play](https://play.google.com/store/apps/details?id=doaa.com.hijri_gregorian) · [App Store](https://apps.apple.com/eg/app/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1-%D9%88%D8%A3%D8%AF%D8%B9%D9%8A%D8%A9/id6446449803)
 
----
+**ExeMore**
+A multi-vendor e-commerce platform with shopping, product management, order tracking, and deep-linking support.
+[Google Play](https://play.google.com/store/apps/details?id=com.exemore.exemore) · [App Store](https://apps.apple.com/eg/app/exemore/id1670860354)
 
-## **01 GOV**
-A digital platform enabling government innovation, communication, and collaboration.  
-Features include content publishing tools, media center, interactive services, and secure user access.
+**Water Note**
+A water-tracking app with daily reminders, health tips, and hydration analytics.
+[Google Play](https://play.google.com/store/apps/details?id=com.water_note.azom_project) · [App Store](https://apps.apple.com/ua/app/%D9%88%D9%88%D8%AA%D8%B1-%D9%86%D9%88%D8%AA-water-note/id1620772038)
 
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.beetleware.govern01)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/eg/app/01-gov/id6504727922)
-
----
-
-## **Read To Lead – ريد تو ليد**
-A self-development platform offering book summaries, articles, podcasts, and expert content.  
-Includes personalized recommendations, saved items, and multi-media streaming.
-
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=store.readtolead.rtl&pcampaignid=web_share)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/us/app/read-to-lead/id1594156061)
-
----
-
-## **MaharaTufl – مهارة طفل**
-An educational kids’ app that builds early Arabic language skills through interactive activities, audio lessons, and engaging UX.
-
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.maharattufl.maharatufl)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/eg/app/%D9%85%D9%87%D8%A7%D8%B1%D8%A9-%D8%B7%D9%81%D9%84/id6467820570)
+**Water Note Driver**
+A driver-side delivery management app for tracking tasks, delivery routes, schedules, and order confirmations.
+[Google Play](https://play.google.com/store/apps/details?id=com.azom.water_note_driver) · [App Store](https://apps.apple.com/eg/app/water-note-driver/id1620913522)
 
 ---
 
-## **Athkar & Doaa – أذكار وأدعية**
-Complete daily athkar, duas, reminders, hijri calendar, and worship tracking.  
-Built with offline support & fully customizable notifications.
+## Tech Stack
 
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=doaa.com.hijri_gregorian)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/eg/app/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1-%D9%88%D8%A3%D8%AF%D8%B9%D9%8A%D8%A9/id6446449803)
+**Languages:** Dart, Java, Kotlin, Swift (Learning)
 
----
+**Frameworks & SDKs:** Flutter, Flutter Web, Android SDK
 
-## **ExeMore**
-A multi-vendor e-commerce platform with shopping, product management, orders, tracking, and deep linking support.
+**Architecture & Design:** Clean Architecture, MVVM, Repository Pattern, SOLID Principles, Design Patterns, Dependency Injection (GetIt)
 
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.exemore.exemore)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/eg/app/exemore/id1670860354)
+**State Management:** BLoC/Cubit, Riverpod, Provider, GetX
 
----
+**Storage:** Firebase, SQLite, Hive, SharedPreferences, Flutter Secure Storage
 
-## **Water Note**
-Water tracking app with daily reminders, health tips, hydration analytics, and intuitive UI.
+**Integrations:** Google Maps, Apple Pay, Google Pay, Tabby, Tamara, Moyasar, MyFatoorah, Push Notifications (FCM), Analytics, Crashlytics, Branch.io, Dynamic Links
 
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.water_note.azom_project)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/ua/app/%D9%88%D9%88%D8%AA%D8%B1-%D9%86%D9%88%D8%AA-water-note/id1620772038)
+**CI/CD:** GitHub Actions, Fastlane, Codemagic
+
+**Tools:** Android Studio, VS Code, Xcode, IntelliJ IDEA, Postman, Figma, Jira, Confluence, Slack
+
+**Version Control:** Git, GitHub, GitLab, Azure DevOps
 
 ---
 
-## **Water Note Driver**
-Driver-side delivery management app for tracking tasks, delivery routes, schedules, and order confirmations.
+## Currently Focused On
 
-**Download:**  
-[<img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.azom.water_note_driver)
-[<img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white">](https://apps.apple.com/eg/app/water-note-driver/id1620913522)
-
----
-
-# 🧰 Tech Stack
-### **Languages**
-Dart, Java, Kotlin, C#, C, C++
-
-### **Frameworks**
-Flutter, Android SDK  
-
-### **Architecture**
-Clean Architecture, SOLID, MVVM, MVC, MVP  
-
-### **State Management**
-BLoC, Cubit, Riverpod, Provider, GetX  
-
-### **Storage**
-Firebase, SQLite, Sqflite, Hive, Secure Storage  
-
-### **Integrations**
-Google Maps, Apple Pay, Tabby, Tamara, Moyasar, MyFatoorah  
-Notifications, Analytics, Crashlytics, Branch.io, Dynamic Links  
-CI/CD (GitHub Actions, Fastlane)
-
-### **Tools**
-Android Studio, IntelliJ, VS Code  
-Postman, Trello, Jira, Slack  
-Git, GitHub, GitLab
+- Building scalable, testable, production-ready Flutter applications
+- Clean, maintainable architecture
+- Mobile team leadership and mentorship
+- Performance optimization
+- Cross-functional collaboration
 
 ---
 
-# 🎯 What I'm Focusing On
-- Building scalable, testable, production-ready Flutter apps  
-- Clean, maintainable architecture  
-- Performance optimization  
-- Open-source contributions  
-- Mentorship & community support  
-
----
-
-⭐ **If you like my work, feel free to star my repositories!**
-🎉
+If you find this work useful, feel free to star my repositories.
