@@ -35,7 +35,18 @@ These days I split my time between leading a mobile team, making architecture ca
 | Flutter Developer | Deltana-IT | Hybrid, Mansoura, Egypt | 09/2021 – 01/2022 |
 
 ---
+## Experience
 
+| Role | Company | Location | Dates |
+|:--|:--|:--|:--|
+| **Mobile Team Lead** | Imam Turki Bin Abdullah Royal Nature Reserve Development Authority | Remote, Saudi Arabia | **11/2025–Present** |
+| Senior Flutter Developer | Beetleware | Hybrid, Maadi, Egypt | 11/2023–11/2025 |
+| Senior Flutter Developer & Developer Advocate | PowerMaas | On-site, Saudi Arabia | 10/2022–11/2023 |
+| Flutter Developer | WePartner | Hybrid, Cairo, Egypt | 06/2022–09/2022 |
+| Flutter Developer | DubSign | On-site, Mansoura, Egypt | 02/2022–06/2022 |
+| Flutter Developer | Exe More | Remote (Part-Time) | 02/2022–07/2022 |
+| Flutter Instructor | Technique | Remote (Part-Time) | 10/2021–02/2022 |
+| Flutter Developer | Deltana-IT | Hybrid, Mansoura, Egypt | 09/2021–01/2022 |
 ## Featured Projects
 
 **[KhairUmmah](https://play.google.com/store/apps/details?id=com.beetleware.khair_oma)** — Islamic lifestyle app
