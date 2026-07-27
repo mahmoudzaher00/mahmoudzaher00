@@ -2,21 +2,39 @@
 
 ### Senior Flutter Developer | Mobile Team Lead
 
-I'm a results-oriented Flutter developer with 5+ years of experience designing, architecting, and delivering scalable cross-platform mobile applications. I specialize in Clean Architecture, BLoC, modularization, testing, and performance optimization — owning features end-to-end from concept to production.
+---
 
-I'm passionate about turning product ideas into fast, reliable, polished mobile experiences, and about mentoring developers along the way.
+## Professional Summary
+
+Mobile Team Lead and Senior Flutter Developer with 5+ years of experience designing, architecting, and delivering scalable cross-platform mobile applications using Flutter. Proven expertise in team leadership, software architecture, and the full software development lifecycle, with a strong focus on performance, maintainability, and engineering excellence. Passionate about mentoring developers and delivering high-quality mobile solutions that drive measurable business value.
 
 ---
 
-## About
+## Professional Experience
 
-- Mobile Team Lead at Imam Turki Bin Abdullah Royal Nature Reserve Development Authority (Remote, Saudi Arabia) — Present
-- Senior Flutter Developer at Beetleware
-- Senior Flutter Developer & Developer Advocate at PowerMaas
-- Built and maintained 12+ production mobile apps across Android, iOS, and Web
-- Experience across hybrid, on-site (Saudi Arabia), and remote roles
-- Strong background in payments, maps, notifications, authentication, and analytics
-- Based in Cairo, Egypt
+**Mobile Team Lead** — Imam Turki Bin Abdullah Royal Nature Reserve Development Authority
+Remote, Saudi Arabia · 11/2025 – Present
+
+**Senior Flutter Developer** — Beetleware
+Hybrid, Maadi, Egypt · 11/2023 – 11/2025
+
+**Senior Flutter Developer & Developer Advocate** — PowerMaas
+On-site, Saudi Arabia · 10/2022 – 11/2023
+
+**Flutter Developer** — WePartner
+Hybrid, Cairo, Egypt · 06/2022 – 09/2022
+
+**Flutter Developer** — DubSign
+On-site, Mansoura, Egypt · 02/2022 – 06/2022
+
+**Flutter Developer** — Exe More
+Remote (Part-Time) · 02/2022 – 07/2022
+
+**Flutter Instructor** — Technique
+Remote (Part-time) · 10/2021 – 02/2022
+
+**Flutter Developer** — Deltana-IT
+Hybrid, Mansoura, Egypt · 09/2021 – 01/2022
 
 ---
 
@@ -28,7 +46,7 @@ GitHub: [github.com/mahmoudzaher00](https://github.com/mahmoudzaher00)
 
 ---
 
-## Featured Projects
+## Projects
 
 All applications below are in production and serve real users.
 
@@ -45,13 +63,13 @@ On-demand car wash and upholstery service with a full booking system, real-time 
 A TVTC-accredited media training platform focused on developing media talent through professional, structured training programs.
 Google Play · App Store
 
-**Shipper Operation**
-A logistics operations system for assigning delivery trips, managing drivers, tracking shipments, and monitoring routes, with real-time updates and secure admin controls.
-[Google Play](https://play.google.com/store/apps/details?id=com.beetleware.shipperoperation) · [App Store](https://apps.apple.com/us/app/shipper-operation/id6471913778)
-
 **01 GOV**
 A digital platform enabling government innovation, communication, and collaboration, with content publishing tools, a media center, interactive services, and secure user access.
 [Google Play](https://play.google.com/store/apps/details?id=com.beetleware.govern01) · [App Store](https://apps.apple.com/eg/app/01-gov/id6504727922)
+
+**Shipper Operation**
+A logistics operations system for assigning delivery trips, managing drivers, tracking shipments, and monitoring routes, with real-time updates and secure admin controls.
+[Google Play](https://play.google.com/store/apps/details?id=com.beetleware.shipperoperation) · [App Store](https://apps.apple.com/us/app/shipper-operation/id6471913778)
 
 **Read To Lead**
 A self-development platform offering book summaries, articles, podcasts, and expert content, with personalized recommendations and multimedia streaming.
@@ -85,7 +103,14 @@ A driver-side delivery management app for tracking tasks, delivery routes, sched
 
 ---
 
-## Tech Stack
+## Education
+
+- Diploma in Front-End & Cross-Platform Mobile Development, ITI, Mansoura — Apr 2021 – Sep 2021
+- B.Sc. in Information Technology, Mansoura University — 2015 – 2019 (Grade: Good, 68%) — Graduation Project: Smart Irrigation System Using IoT (Grade: Excellent)
+
+---
+
+## Technical Skills
 
 **Languages:** Dart, Java, Kotlin, Swift (Learning)
 
@@ -95,25 +120,29 @@ A driver-side delivery management app for tracking tasks, delivery routes, sched
 
 **State Management:** BLoC/Cubit, Riverpod, Provider, GetX
 
-**Storage:** Firebase, SQLite, Hive, SharedPreferences, Flutter Secure Storage
+**Backend & Integrations:** RESTful APIs, GraphQL (Basic), Firebase, Push Notifications (FCM), Google Maps, Branch.io, Payment Gateway Integration (Apple Pay, Google Pay, Tabby, Tamara, Moyasar, MyFatoorah, etc.)
 
-**Integrations:** Google Maps, Apple Pay, Google Pay, Tabby, Tamara, Moyasar, MyFatoorah, Push Notifications (FCM), Analytics, Crashlytics, Branch.io, Dynamic Links
+**Firebase Services:** Authentication, Cloud Firestore, Cloud Messaging (FCM), Analytics, Crashlytics, Remote Config, Dynamic Links, Firebase Storage
 
-**CI/CD:** GitHub Actions, Fastlane, Codemagic
+**Databases & Local Storage:** SQLite, Hive, SharedPreferences, Flutter Secure Storage
+
+**Testing & Quality:** Unit Testing, Widget Testing, Integration Testing, Code Reviews, Performance Optimization, Debugging, Profiling
+
+**DevOps & CI/CD:** Git, GitHub, GitLab, Azure DevOps, GitHub Actions, Fastlane, Codemagic, Build Flavors, App Store Connect, Google Play Console
+
+**Security:** Secure Mobile Development, Secure Authentication, API Security, OWASP Mobile Security Principles, STRIDE Threat Modeling
 
 **Tools:** Android Studio, VS Code, Xcode, IntelliJ IDEA, Postman, Figma, Jira, Confluence, Slack
 
-**Version Control:** Git, GitHub, GitLab, Azure DevOps
+**Development Practices:** Agile (Scrum), SDLC, Technical Leadership, Team Mentoring, Cross-functional Collaboration
+
+**Platforms:** Android, iOS, Web
 
 ---
 
-## Currently Focused On
+## Soft Skills
 
-- Building scalable, testable, production-ready Flutter applications
-- Clean, maintainable architecture
-- Mobile team leadership and mentorship
-- Performance optimization
-- Cross-functional collaboration
+Leadership & Team Mentoring · Strong Communication · Time Management & Prioritization · Ownership & Accountability · Problem Solving & Critical Thinking · Adaptability & Continuous Learning · Technical Decision-Making · Cross-functional Collaboration
 
 ---
 
