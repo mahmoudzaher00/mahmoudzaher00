@@ -2,17 +2,17 @@
 
 ### Senior Flutter Developer · Mobile Architecture · Technical Leadership
 
-**Cairo, Egypt** · Building production applications for Android and iOS
+**Cairo, Egypt** · 5+ years building production Android & iOS applications · Mobile Team Leadership
 
-[LinkedIn](https://www.linkedin.com/in/mahmoud-zaher-945092206/) · [Email](mailto:zahermahmoud80@gmail.com) · [Explore my work](#selected-projects)
+🌐 **[Visit My Portfolio](https://mahmoudzaher00.github.io/)** · [LinkedIn](https://www.linkedin.com/in/mahmoud-zaher-945092206/) · [Email](mailto:zahermahmoud80@gmail.com) · [Projects](#selected-projects)
 
 ---
 
 ## About me
 
-I'm a **Senior Flutter Developer with 5+ years of experience**, combining hands-on engineering with mobile team leadership. I build and modernize production applications, taking ownership from architecture and implementation through testing, release, and maintenance.
+I'm a **Senior Flutter Developer with 5+ years of experience** building production Android and iOS applications, combining hands-on engineering with mobile team leadership. I build and modernize production applications, taking ownership from architecture and implementation through testing, release, and maintenance.
 
-My work spans government field operations, e-commerce, logistics, education, and content platforms. I focus on maintainable architecture and the engineering behind reliable mobile experiences: **offline synchronization, native integration, background audio, and application performance**.
+My work spans government field operations, e-commerce, logistics, education, and content platforms. I focus on maintainable architecture and the engineering behind reliable mobile experiences: **offline synchronization, native integration, background audio, security, and application performance**. I use AI-assisted engineering to accelerate planning, debugging, and refactoring while validating changes through code review and testing.
 
 Currently, I lead mobile development at **Imam Turki Bin Abdullah Royal Nature Reserve Development Authority**, guiding technical decisions and mentoring developers while building a ranger operations application.
 
@@ -28,6 +28,9 @@ Currently, I lead mobile development at **Imam Turki Bin Abdullah Royal Nature R
 ---
 
 ## Selected projects
+
+> For a more visual overview of my work, explore my **[Portfolio Website](https://mahmoudzaher00.github.io/)**.
+
 
 ### Ranger Field Operations
 **Government operations · Mobile team leadership · Offline synchronization**
@@ -105,21 +108,20 @@ At **Technique**, I taught Clean Architecture, state management, and REST APIs t
 
 | Area | Technologies & practices |
 |:--|:--|
-| **Mobile & UI** | Flutter, Dart, Flutter Web, Android SDK, Java, Kotlin, Swift, responsive and adaptive UI, reusable widgets, localization, RTL, EasyLocalization |
-| **Architecture & state** | Clean Architecture, MVVM, modular architecture, SOLID, design patterns, Repository Pattern, GetIt, BLoC/Cubit, Riverpod, Provider, GetX, Melos |
-| **Dart & tooling** | Async/Await, Streams, RxDart, Isolates, concurrency, null safety, Build Runner, Freezed, JSON Serializable, GoRouter, AutoRoute |
-| **APIs & native integration** | REST APIs, Dio, WebSockets, MethodChannels, native SDK integration, background tasks, WorkManager, Google Maps, payment gateways, Branch.io; GraphQL concepts |
-| **Firebase & persistence** | Authentication, Firestore, FCM, Realtime Database, Crashlytics, Analytics, Remote Config, Storage, SQLite, Hive, SharedPreferences, Flutter Secure Storage, offline caching and synchronization |
-| **Testing & performance** | Unit, widget, integration and golden tests, TDD, Mockito, Mocktail, Flutter DevTools, memory profiling, performance optimization, root cause analysis, code reviews |
-| **CI/CD & releases** | Git, GitHub, GitLab, Azure DevOps, GitHub Actions, Fastlane, Codemagic, Bitrise, build flavors, app signing, App Store Connect, Google Play Console |
-| **Security** | OAuth2, OpenID Connect, secure authentication and token storage, API security, certificate pinning, biometrics, OWASP mobile security principles; STRIDE threat modeling concepts |
-| **Leadership & delivery** | Technical leadership, mentoring, Agile/Scrum, requirements analysis, cross-functional collaboration, stakeholder communication |
+| **Flutter & Dart** | Flutter, Dart, Flutter Web, responsive & adaptive UI, custom widgets, localization & RTL, async/await, Streams, Isolates, Null Safety, Freezed, GoRouter |
+| **Architecture & state** | Clean Architecture, MVVM, SOLID, Repository Pattern, modular architecture (Melos), BLoC/Cubit, Riverpod, Provider, GetX, dependency injection (GetIt) |
+| **Native & platform integration** | MethodChannels, native SDK integration (Kotlin, Swift, Java), background tasks, WorkManager, Google Maps, payment gateways, deep linking (Branch.io) |
+| **Offline & data** | Offline caching & synchronization, Hive, SQLite, Flutter Secure Storage, REST APIs, Dio, WebSockets, Firebase (Authentication, Firestore, FCM, Crashlytics, Analytics, Remote Config) |
+| **Testing & performance** | Unit, widget, integration & golden tests, TDD, Mocktail, Flutter DevTools, memory profiling, performance optimization |
+| **CI/CD & releases** | Git/GitHub Actions, GitLab, Azure DevOps, Fastlane, Codemagic, Bitrise, build flavors, app signing, App Store Connect, Google Play Console |
+| **Mobile security** | OAuth2, secure authentication, token storage, API security, certificate pinning, biometrics, OWASP Mobile Security Principles, STRIDE Threat Modeling |
+| **Leadership** | Team leadership, developer mentoring, code reviews, Agile/Scrum |
 
 ## AI-assisted engineering
 
-I use **Claude, ChatGPT, Codex, and Model Context Protocol (MCP)** to support technical planning, implementation, debugging, and refactoring.
+I use **ChatGPT, Claude, Codex, and Model Context Protocol (MCP)** in structured AI-assisted engineering workflows for technical planning, task decomposition, implementation, debugging, and refactoring.
 
-My workflow combines structured prompting, codebase context management, and task decomposition with **code review and testing** to validate outputs before delivery.
+My workflow combines structured prompting and codebase context management with **code review and testing of AI-generated code** to validate changes before delivery.
 
 ## Education
 
@@ -131,6 +133,7 @@ My workflow combines structured prompting, codebase context management, and task
 
 For mobile engineering opportunities, technical discussions, or collaboration:
 
+- **Portfolio:** [mahmoudzaher00.github.io](https://mahmoudzaher00.github.io/)
 - **Email:** [zahermahmoud80@gmail.com](mailto:zahermahmoud80@gmail.com)
 - **LinkedIn:** [Mahmoud Zaher](https://www.linkedin.com/in/mahmoud-zaher-945092206/)
 - **GitHub:** [mahmoudzaher00](https://github.com/mahmoudzaher00)
