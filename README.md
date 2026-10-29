@@ -2,7 +2,7 @@
 
 ### Senior Flutter Developer · Mobile Architecture · Technical Leadership
 
-**Cairo, Egypt** · 5+ years building production Android & iOS applications · Mobile Team Leadership
+**Cairo, Egypt** · 5+ years building production Android & iOS applications · 25+ apps shipped to Google Play & the App Store
 
 🌐 **[Visit My Portfolio](https://mahmoudzaher00.github.io/)** · [LinkedIn](https://www.linkedin.com/in/mahmoud-zaher-945092206/) · [Email](mailto:zahermahmoud80@gmail.com) · [Projects](#selected-projects)
 
@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm a **Senior Flutter Developer with 5+ years of experience** building production Android and iOS applications, combining hands-on engineering with mobile team leadership. I build and modernize production applications, taking ownership from architecture and implementation through testing, release, and maintenance.
+I'm a **Senior Flutter Developer with 5+ years of experience** and **25+ production Android and iOS apps** shipped, combining hands-on engineering with mobile team leadership. I build and modernize production applications, taking ownership from architecture and implementation through testing, release, and maintenance.
 
 My work spans government field operations, e-commerce, logistics, education, and content platforms. I focus on maintainable architecture and the engineering behind reliable mobile experiences: **offline synchronization, native integration, background audio, security, and application performance**. I use AI-assisted engineering to accelerate planning, debugging, and refactoring while validating changes through code review and testing.
 
@@ -22,7 +22,7 @@ Currently, I lead mobile development at **Imam Turki Bin Abdullah Royal Nature R
 - **Production delivery:** Developed and delivered features across **6+ Flutter applications at Beetleware**, working with product, backend, QA, and design teams through release.
 - **Application modernization:** Migrated **KhairUmmah** from its previous technology stack to Flutter, resolving existing issues and improving responsiveness, stability, and maintainability.
 - **Background audio:** Implemented podcast playback for **Read To Lead**, including lock-screen controls, playback position recovery, and interruption handling.
-- **Product ownership:** Led technical delivery of a home services platform and an internal HR app at **PowerMaas**, from requirements and UI/UX briefs to backend coordination and Flutter implementation.
+- **Product ownership:** Led technical delivery of a home services platform and an internal HR app at **Power Maas**, from requirements and UI/UX briefs to backend coordination and Flutter implementation.
 - **Developer growth:** Mentored developers through architecture discussions and code reviews, and delivered practical Flutter training as an instructor.
 
 ---
@@ -90,17 +90,17 @@ The following applications are also part of my project portfolio. My contributio
 
 | Role | Organization | Working arrangement | Dates |
 |:--|:--|:--|:--|
-| **Mobile Team Lead** | Imam Turki Bin Abdullah Royal Nature Reserve Development Authority | Remote, Saudi Arabia | Nov 2025 – Present |
+| **Senior Flutter Developer** | Imam Turki Bin Abdullah Royal Nature Reserve Development Authority | Remote, Saudi Arabia | Nov 2025 – Present |
 | **Senior Flutter Developer** | Beetleware | Hybrid, Maadi, Egypt | Nov 2023 – Nov 2025 |
-| **Senior Flutter Developer & Developer Advocate** | PowerMaas | On-site, Saudi Arabia | Oct 2022 – Nov 2023 |
-| **Flutter Developer** | DubSign | On-site, Mansoura, Egypt | Feb 2022 – Sep 2022 |
-| **Flutter Developer** | Exe More | Remote, part-time | Feb 2022 – Jul 2022 |
-| **Flutter Instructor** | Technique | Remote, part-time | Oct 2021 – Feb 2022 |
+| **Senior Flutter Developer & Developer Advocate** | Power Maas | On-site, Saudi Arabia | Oct 2022 – Nov 2023 |
+| **Flutter Developer** | DUBISIGN | On-site, Mansoura, Egypt | Feb 2022 – Sep 2022 |
+| **Flutter Developer** | Exemore | Remote, part-time | Mar 2022 – Aug 2022 |
+| **Flutter Instructor** | Techunique | Remote, part-time | Oct 2021 – Feb 2022 |
 | **Flutter Developer** | Deltana-IT | Hybrid, Mansoura, Egypt | Sep 2021 – Jan 2022 |
 
-At **DubSign**, I contributed production features, REST API integrations, testing, and application optimization. At **Exe More**, I maintained applications, resolved defects, optimized performance, and supported releases.
+At **DUBISIGN**, I contributed production features, REST API integrations, testing, and application optimization. At **Exemore**, I maintained and enhanced a Flutter e-commerce app supporting international shipping, managed the legacy codebase, and prepared production releases for Google Play and the App Store.
 
-At **Technique**, I taught Clean Architecture, state management, and REST APIs through practical projects and code reviews. At **Deltana-IT**, I developed cross-platform features with backend engineers and participated in testing, debugging, and releases.
+At **Techunique**, I taught Flutter and Dart to Zagazig University students, covering Clean Architecture, state management, and REST APIs through practical projects and code reviews. At **Deltana-IT**, I developed a multi-vendor healthcare app connecting patients with doctors through online consultations, video calls, and chat, including consultation requests and prescription workflows.
 
 ---
 
