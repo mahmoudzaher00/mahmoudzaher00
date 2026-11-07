@@ -1,6 +1,6 @@
 # Mahmoud Zaher
 
-### Senior Flutter Developer · Mobile Architecture · Technical Leadership
+### Senior Mobile Developer · Flutter · Mobile Architecture · AI-Assisted Engineering
 
 **Cairo, Egypt** · 5+ years building production Android & iOS applications · 25+ apps shipped to Google Play & the App Store
 
@@ -10,9 +10,9 @@
 
 ## About me
 
-I'm a **Senior Flutter Developer with 5+ years of experience** and **25+ production Android and iOS apps** shipped, combining hands-on engineering with mobile team leadership. I build and modernize production applications, taking ownership from architecture and implementation through testing, release, and maintenance.
+I'm a **Senior Mobile Developer with 5+ years of experience** building and shipping **25+ production Android and iOS apps** with **Flutter**, combining hands-on engineering with mobile team leadership. I build and modernize production applications, taking ownership from architecture and implementation through testing, release, and maintenance.
 
-My work spans government field operations, e-commerce, logistics, education, and content platforms. I focus on maintainable architecture and the engineering behind reliable mobile experiences: **offline synchronization, native integration, background audio, security, and application performance**. I use AI-assisted engineering to accelerate planning, debugging, and refactoring while validating changes through code review and testing.
+My work spans government field operations, e-commerce, logistics, education, and content platforms. I focus on maintainable architecture and the engineering behind reliable mobile experiences: **offline synchronization, native integration, background audio, security, and application performance**. I use **AI-assisted engineering with Claude, Codex, and MCP** across planning, implementation, debugging, and code review, delivering faster without compromising quality.
 
 Currently, I lead mobile development at **Imam Turki Bin Abdullah Royal Nature Reserve Development Authority**, guiding technical decisions and mentoring developers while building a ranger operations application.
 
@@ -66,23 +66,25 @@ Implemented end-to-end podcast playback, including:
 
 A platform for booking vehicle services, purchasing products, and managing online orders.
 
+Built from scratch: **service booking, e-commerce, and payments** with **Google Maps**, across Android, iOS, and the **web**, owning end-to-end delivery.
+
 [Google Play](https://play.google.com/store/apps/details?id=com.first.wash) · [App Store](https://apps.apple.com/gb/app/fristwash/id1645783986) · [Web](https://web.firstwashes.com/)
 
 ### More applications
 
-The following applications are also part of my project portfolio. My contributions across these products include development, feature delivery, maintenance, and release support.
+The following applications are also part of my project portfolio.
 
-| Application | Product focus | Links |
-|:--|:--|:--|
-| **SBA Academy** | TVTC-accredited media training platform | [Google Play](https://play.google.com/store/apps/details?id=com.spc.sba) · [App Store](https://apps.apple.com/eg/app/sba-academy/id6749261521) |
-| **01 GOV** | Arabic platform for innovation and collaboration within government entities | [Google Play](https://play.google.com/store/apps/details?id=com.beetleware.govern01) · [App Store](https://apps.apple.com/eg/app/01-gov/id6504727922) |
-| **Shipper Operation** | Back-office delivery trip assignment and management | [Google Play](https://play.google.com/store/apps/details?id=com.beetleware.shipperoperation) · [App Store](https://apps.apple.com/us/app/shipper-operation/id6471913778) |
-| **MaharaTufl** | Interactive early language learning for children | [Google Play](https://play.google.com/store/apps/details?id=com.maharattufl.maharatufl) · [App Store](https://apps.apple.com/eg/app/%D9%85%D9%87%D8%A7%D8%B1%D8%A9-%D8%B7%D9%81%D9%84/id6467820570) |
-| **Tal3eeb** | Discovering, organizing, and joining sports activities | [Google Play](https://play.google.com/store/apps/details?id=com.beetleware.tal3eeb) · [App Store](https://apps.apple.com/eg/app/tal3eeb/id6760836315) |
-| **Athkar & Doaa** | Daily athkar, duas, and prayer reminders | [Google Play](https://play.google.com/store/apps/details?id=doaa.com.hijri_gregorian) · [App Store](https://apps.apple.com/eg/app/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1-%D9%88%D8%A3%D8%AF%D8%B9%D9%8A%D8%A9/id6446449803) |
-| **ExeMore** | E-commerce for local and international markets | [Google Play](https://play.google.com/store/apps/details?id=com.exemore.exemore) · [App Store](https://apps.apple.com/eg/app/exemore/id1670860354) |
-| **Water Note** | Daily water consumption tracking and hydration reminders | [Google Play](https://play.google.com/store/apps/details?id=com.water_note.azom_project) · [App Store](https://apps.apple.com/ua/app/%D9%88%D9%88%D8%AA%D8%B1-%D9%86%D9%88%D8%AA-water-note/id1620772038) |
-| **Water Note Driver** | Water delivery route and task management | [Google Play](https://play.google.com/store/apps/details?id=com.azom.water_note_driver) · [App Store](https://apps.apple.com/eg/app/water-note-driver/id1620913522) |
+| Application | Product focus | My contribution | Links |
+|:--|:--|:--|:--|
+| **SBA Academy** | Saudi Broadcasting Authority’s TVTC-accredited media training app | Developed most features and enhancements | [Google Play](https://play.google.com/store/apps/details?id=com.spc.sba) · [App Store](https://apps.apple.com/eg/app/sba-academy/id6749261521) |
+| **01 GOV** | UAE GovTech platform for innovation within government entities · 1K+ downloads | Developed e-payment subscriptions, social login, video library, content search, and personalized notifications | [Google Play](https://play.google.com/store/apps/details?id=com.beetleware.govern01) · [App Store](https://apps.apple.com/eg/app/01-gov/id6504727922) |
+| **Shipper Operation** | Back-office delivery trip assignment and management for logistics teams | Built real-time driver tracking and trip management | [Google Play](https://play.google.com/store/apps/details?id=com.beetleware.shipperoperation) · [App Store](https://apps.apple.com/us/app/shipper-operation/id6471913778) |
+| **MaharaTufl** | Interactive early language learning for children · **100K+ downloads, 4.4★** | Developed video caching, Apple Pay & Stripe payments, OTP/biometric auth, and TikTok SDK via MethodChannels | [Google Play](https://play.google.com/store/apps/details?id=com.maharattufl.maharatufl) · [App Store](https://apps.apple.com/eg/app/%D9%85%D9%87%D8%A7%D8%B1%D8%A9-%D8%B7%D9%81%D9%84/id6467820570) |
+| **Tal3eeb** | Gamified learning platform | Developed AR challenges, QR & GPS missions, timed races, trivia, and a points/rewards system | [Google Play](https://play.google.com/store/apps/details?id=com.beetleware.tal3eeb) · [App Store](https://apps.apple.com/eg/app/tal3eeb/id6760836315) |
+| **Athkar & Doaa** | Daily athkar, duas, and prayer reminders · **100K+ downloads, 4.7★** | Developed daily athkar and duas with scheduled prayer reminders | [Google Play](https://play.google.com/store/apps/details?id=doaa.com.hijri_gregorian) · [App Store](https://apps.apple.com/eg/app/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1-%D9%88%D8%A3%D8%AF%D8%B9%D9%8A%D8%A9/id6446449803) |
+| **ExeMore** | E-commerce for local and international markets | Maintained and released the app with cross-border shipping | [Google Play](https://play.google.com/store/apps/details?id=com.exemore.exemore) · [App Store](https://apps.apple.com/eg/app/exemore/id1670860354) |
+| **Water Note** | Water delivery ordering and IoT tank monitoring · 1K+ downloads | Developed water delivery ordering and IoT tank monitoring (water level, consumption, and leak alerts) | [Google Play](https://play.google.com/store/apps/details?id=com.water_note.azom_project) · [App Store](https://apps.apple.com/ua/app/%D9%88%D9%88%D8%AA%D8%B1-%D9%86%D9%88%D8%AA-water-note/id1620772038) |
+| **Water Note Driver** | Water delivery route and task management | Developed route and task management for delivery drivers | [Google Play](https://play.google.com/store/apps/details?id=com.azom.water_note_driver) · [App Store](https://apps.apple.com/eg/app/water-note-driver/id1620913522) |
 
 ---
 
@@ -121,7 +123,7 @@ At **Techunique**, I taught Flutter and Dart to Zagazig University students, cov
 
 I use **ChatGPT, Claude, Codex, and Model Context Protocol (MCP)** in structured AI-assisted engineering workflows for technical planning, task decomposition, implementation, debugging, and refactoring.
 
-My workflow combines structured prompting and codebase context management with **code review and testing of AI-generated code** to validate changes before delivery.
+My workflow combines structured prompting and codebase context management with **code review and testing of AI-generated code**, delivering faster without compromising quality.
 
 ## Education
 
