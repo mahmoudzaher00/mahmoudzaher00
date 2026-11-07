@@ -110,7 +110,7 @@ At **Techunique**, I taught Flutter and Dart to Zagazig University students, cov
 
 | Area | Technologies & practices |
 |:--|:--|
-| **Flutter & Dart** | Flutter, Dart, Flutter Web, responsive & adaptive UI, custom widgets, localization & RTL, async/await, Streams, Isolates, Null Safety, Freezed, GoRouter |
+| **Flutter & Dart** | Flutter, Dart, Flutter Web, responsive & adaptive UI, custom widgets, localization & RTL, Streams, Isolates, Freezed, GoRouter |
 | **Architecture & state** | Clean Architecture, MVVM, SOLID, Repository Pattern, modular architecture (Melos), BLoC/Cubit, Riverpod, Provider, GetX, dependency injection (GetIt) |
 | **Native & platform integration** | MethodChannels, native SDK integration (Kotlin, Swift, Java), background tasks, WorkManager, Google Maps, payment gateways, deep linking (Branch.io) |
 | **Offline & data** | Offline caching & synchronization, Hive, SQLite, Flutter Secure Storage, REST APIs, Dio, WebSockets, Firebase (Authentication, Firestore, FCM, Crashlytics, Analytics, Remote Config) |
@@ -121,7 +121,7 @@ At **Techunique**, I taught Flutter and Dart to Zagazig University students, cov
 
 ## AI-assisted engineering
 
-I use **ChatGPT, Claude, Codex, and Model Context Protocol (MCP)** in structured AI-assisted engineering workflows for technical planning, task decomposition, implementation, debugging, and refactoring.
+I use **ChatGPT, Claude, Codex, and Model Context Protocol (MCP)** in structured AI-assisted engineering workflows for technical planning, task decomposition, AI-assisted implementation, debugging, and refactoring.
 
 My workflow combines structured prompting and codebase context management with **code review and testing of AI-generated code**, delivering faster without compromising quality.
 
